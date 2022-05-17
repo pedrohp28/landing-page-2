@@ -408,9 +408,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.25rem;
-	border: 1px solid #ff6c02;
+	border: 1px solid #34cc32;
 	border-radius: 32px;
-	background-color: #ff6c02;
+	background-color: #34cc32;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -420,9 +420,9 @@ input[type='checkbox'] {
 }
 
 .form-control-submit-button:hover {
-	border: 1px solid #ff6c02;
+	border: 1px solid #34cc32;
 	background-color: transparent;
-	color: #ff6c02;
+	color: #34cc32;
 }
 
 /* Fade-move Animation For Details Lightbox - Magnific Popup */
